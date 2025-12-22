@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Benjamin Owolabi
+# Hi 👋, I'm Benjamin
 
-💻 Full-Stack Engineer | 🚀 ALX Graduate | 🌍 Tech Explorer  
+💻 Full-Stack Engineer | 🌍 Blockchain Explorer  
 
 I'm passionate about building scalable systems, diving into blockchain, and exploring how software can solve real-world problems.  
 
@@ -51,9 +51,9 @@ I'm passionate about building scalable systems, diving into blockchain, and expl
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owolabenjade&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owolabenjade&layout=compact&theme=radical)
 
-## 🔥 Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Owolabenjade&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Owolabenjade&theme=radical&margin-w=15&margin-h=15)
+## 📊 Activity & Stats
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owolabenjade&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owolabenjade&layout=compact&theme=radical)
 
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Owolabenjade)
