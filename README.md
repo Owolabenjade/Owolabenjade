@@ -51,10 +51,6 @@ I'm passionate about building scalable systems, diving into blockchain, and expl
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owolabenjade&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owolabenjade&layout=compact&theme=radical)
 
-## 📊 Activity & Stats
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owolabenjade&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owolabenjade&layout=compact&theme=radical)
-
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Owolabenjade)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin/in/benjaminowolabi)
