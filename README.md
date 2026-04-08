@@ -1,6 +1,6 @@
 # Hi 👋, I'm Benjamin
 
-💻 Full-Stack Engineer | 🌍 Blockchain Explorer  
+💻 Automation Specialist | Full-Stack Engineer | 🌍 Blockchain Explorer  
 
 I'm passionate about building scalable systems, diving into blockchain, and exploring how software can solve real-world problems.  
 
